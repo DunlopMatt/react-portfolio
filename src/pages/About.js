@@ -20,34 +20,34 @@ const About = () => {
   <h4>Skills</h4>
   <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
     <div class="col">
-      <div class="p-3 border bg-light"><img alt="" src={require('../images/w3_html5-ar21.svg').default}></img></div>
+      <div class="p-3 border bg-light"><img alt="" src={require('../images/w3_html5-ar21.svg')}></img></div>
     </div>
     <div class="col">
-      <div class="p-3 border bg-light"><img alt="" src={require('../images/w3_css-ar21.svg').default}></img></div>
+      <div class="p-3 border bg-light"><img alt="" src={require('../images/w3_css-ar21.svg')}></img></div>
     </div>
     <div class="col">
-      <div class="p-3 border bg-light"><img alt="" src={require('../images/javascript-ar21.svg').default}></img></div>
+      <div class="p-3 border bg-light"><img alt="" src={require('../images/javascript-ar21.svg')}></img></div>
     </div>
     <div class="col">
-      <div class="p-3 border bg-light"><img alt="" src={require('../images/reactjs-ar21.svg').default}></img></div>
+      <div class="p-3 border bg-light"><img alt="" src={require('../images/reactjs-ar21.svg')}></img></div>
     </div>
     <div class="col">
-      <div class="p-3 border bg-light"><img alt="" src={require('../images/nodejs-ar21.svg').default}></img></div>
+      <div class="p-3 border bg-light"><img alt="" src={require('../images/nodejs-ar21.svg')}></img></div>
     </div>
     <div class="col">
-      <div class="p-3 border bg-light"><img alt="" src={require('../images/mongodb-ar21.svg').default}></img></div>
+      <div class="p-3 border bg-light"><img alt="" src={require('../images/mongodb-ar21.svg')}></img></div>
     </div>
     <div class="col">
-      <div class="p-3 border bg-light"><img alt="" src={require('../images/jquery-ar21.svg').default}></img></div>
+      <div class="p-3 border bg-light"><img alt="" src={require('../images/jquery-ar21.svg')}></img></div>
     </div>
     <div class="col">
-      <div class="p-3 border bg-light"><img alt="" src={require('../images/heroku-ar21.svg').default}></img></div>
+      <div class="p-3 border bg-light"><img alt="" src={require('../images/heroku-ar21.svg')}></img></div>
     </div>
     <div class="col">
-      <div class="p-3 border bg-light"><img alt="" src={require('../images/git-scm-ar21.svg').default}></img></div>
+      <div class="p-3 border bg-light"><img alt="" src={require('../images/git-scm-ar21.svg')}></img></div>
     </div>
     <div class="col">
-      <div class="p-3 border bg-light"><img alt="" src={require('../images/getbootstrap-ar21.svg').default}></img></div>
+      <div class="p-3 border bg-light"><img alt="" src={require('../images/getbootstrap-ar21.svg')}></img></div>
     </div>
   </div>
 </div>
