@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.12d4aaa7.css",
+    "main.js": "/react-portfolio/static/js/main.b64e2ad4.js",
+    "static/media/Fitness.PNG": "/react-portfolio/static/media/Fitness.9c087a3a21b2051c351b.PNG",
+    "static/media/Portfolio.PNG": "/react-portfolio/static/media/Portfolio.42197327797093076917.PNG",
+    "static/media/MovieDash.PNG": "/react-portfolio/static/media/MovieDash.619fe1f883132f81abc6.PNG",
+    "static/media/Ecomm.PNG": "/react-portfolio/static/media/Ecomm.6244ee40f0481cabc109.PNG",
+    "static/media/MatterBirds.PNG": "/react-portfolio/static/media/MatterBirds.235b76a3dc4c043ad655.PNG",
+    "static/media/javascript-ar21.svg": "/react-portfolio/static/media/javascript-ar21.bed884df9e373b58499e6fef324d5662.svg",
+    "static/media/mongodb-ar21.svg": "/react-portfolio/static/media/mongodb-ar21.b508609b24c1a2bc58576411df58bb4b.svg",
+    "static/media/jquery-ar21.svg": "/react-portfolio/static/media/jquery-ar21.55de1cbe3d0e28be96ee007742f8f2ab.svg",
+    "static/media/getbootstrap-ar21.svg": "/react-portfolio/static/media/getbootstrap-ar21.d2164ef4740435f6e7ec9ce8efb7482b.svg",
+    "static/media/w3_css-ar21.svg": "/react-portfolio/static/media/w3_css-ar21.33c601483f66d0d260244c39ff885472.svg",
+    "static/media/nodejs-ar21.svg": "/react-portfolio/static/media/nodejs-ar21.454eb4e556fb84e77b09c13f75516e55.svg",
+    "static/media/reactjs-ar21.svg": "/react-portfolio/static/media/reactjs-ar21.cfbc1fb0cceb442c7774b91230a51de0.svg",
+    "static/media/git-scm-ar21.svg": "/react-portfolio/static/media/git-scm-ar21.f89b0da7fd7814e55770442a0c19f5f2.svg",
+    "static/media/heroku-ar21.svg": "/react-portfolio/static/media/heroku-ar21.8fcef77ce821df741109abcd2333625f.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/w3_html5-ar21.svg": "/react-portfolio/static/media/w3_html5-ar21.d1add168bfad0343225307ffd57710dd.svg",
+    "main.12d4aaa7.css.map": "/react-portfolio/static/css/main.12d4aaa7.css.map",
+    "main.b64e2ad4.js.map": "/react-portfolio/static/js/main.b64e2ad4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12d4aaa7.css",
+    "static/js/main.b64e2ad4.js"
+  ]
+}
