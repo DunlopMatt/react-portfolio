@@ -21,8 +21,8 @@ const Projects = () => {
               <p class="card-text">A mock Ecommerce site built using React on the font end and node on the back end.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Live site</button>
+                  <a href='https://github.com/DunlopMatt/EComm/tree/all-features-added' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button></a>
+                  <a href='https://github.com/DunlopMatt/EComm/tree/all-features-added' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">Live site</button></a>
                 </div>
               </div>
             </div>
@@ -36,8 +36,8 @@ const Projects = () => {
               <p class="card-text">A website to searh for and find stats for you favioute movie using OMDb API.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Live site</button>
+                  <a href='https://github.com/DunlopMatt/Moive-Data-Dashboard' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button></a>
+                  <a href='https://dunlopmatt.github.io/Moive-Data-Dashboard/' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">Live site</button></a>
                 </div>
               </div>
             </div>
@@ -51,8 +51,8 @@ const Projects = () => {
               <p class="card-text">A simple angry birds type game built using Matter.js.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Live site</button>
+                  <a href='https://github.com/DunlopMatt/MatterBirds' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button></a>
+                  <a href='https://dunlopmatt.github.io/MatterBirds/' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">Live site</button></a>
                 </div>
               </div>
             </div>
@@ -67,8 +67,8 @@ const Projects = () => {
               <p class="card-text">A mock up I created for my brother when he was considering becoing a Personal Trainer.Built using HTML CSS (BootStrap) and a little JS </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Live site</button>
+                  <a href='https://github.com/DunlopMatt/J-Dunlop-Fitness' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button></a>
+                  <a href='https://jdunlopfitness.herokuapp.com/' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">Live site</button></a>
                 </div>
               </div>
             </div>
@@ -82,8 +82,8 @@ const Projects = () => {
               <p class="card-text">This Portfolio that you are current viewing. Built in React</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Live site</button>
+                  <a href='https://github.com/DunlopMatt/react-portfolio' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button></a>
+                  <a href='/'><button type="button" class="btn btn-sm btn-outline-secondary">Live site</button></a>
                 </div>
               </div>
             </div>

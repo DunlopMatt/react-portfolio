@@ -14,18 +14,19 @@ const Contact = () => {
 					<div class="col-sm-4 offset-md-1 py-4">
 						<ul class="list-unstyled">
 							<li><a href="https://github.com/DunlopMatt" > <button class="btn btn-outline-secondary m-2" type="button">GitHub</button></a></li>
-							<li><a href="MatthewJDunlop@outlook.com"> <button class="btn btn-outline-secondary m-2" type="button">Email</button></a></li>
-							<li><a href="www.linkedin.com/in/matt-dunlop-1206a0237"> <button class="btn btn-outline-secondary m-2" type="button">Linkedin</button></a></li>
+							<li><a href="mailto:MatthewJDunlop@outlook.com"> <button class="btn btn-outline-secondary m-2" type="button">Email</button></a></li>
+							<li><a href="https://linkedin.com/in/matt-dunlop-1206a0237"> <button class="btn btn-outline-secondary m-2" type="button">Linkedin</button></a></li>
 						</ul>
 					</div>
 					<div class="col-sm-8 col-md-7 py-4">
 						<h4 class="text">View CV</h4>
-						<a href=""><i class="fa-solid fa-file-arrow-down fa-5x"></i></a>
+						<a href='/' download={"../images/Matthew Dunlop CV 2022.pdf"}><i class="fa-solid fa-file-arrow-down fa-5x"></i></a>
 					</div>
 				</div>
 			</div>
 		</section>
 	);
 };
+
 
 export default Contact;
