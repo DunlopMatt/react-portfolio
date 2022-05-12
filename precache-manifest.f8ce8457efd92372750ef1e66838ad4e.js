@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1e61dc1ac9c075923d6f",
+    "revision": "8d4f64ab66de05128009",
     "url": "/react-portfolio/static/css/main.38f68a42.chunk.css"
   },
   {
-    "revision": "1e61dc1ac9c075923d6f",
-    "url": "/react-portfolio/static/js/main.1e61dc1a.chunk.js"
+    "revision": "8d4f64ab66de05128009",
+    "url": "/react-portfolio/static/js/main.8d4f64ab.chunk.js"
   },
   {
     "revision": "b3b809bf97541adacdbc",
@@ -16,20 +16,20 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/js/runtime~main.f8926043.js"
   },
   {
-    "revision": "395bfe51b6f258f275a6b7e483ab9366",
-    "url": "/react-portfolio/static/media/Ecomm.395bfe51.PNG"
+    "revision": "b3d079beecb623077605e88e5a311ef2",
+    "url": "/react-portfolio/static/media/Ecomm.b3d079be.PNG"
   },
   {
-    "revision": "28be5408d24782d5525ace6652c3874c",
-    "url": "/react-portfolio/static/media/MovieDash.28be5408.PNG"
+    "revision": "3bd955c6b3b8f722ab93198dbdcf3f7e",
+    "url": "/react-portfolio/static/media/MovieDash.3bd955c6.PNG"
   },
   {
-    "revision": "d7b08c03c100b8422fbbccfb8d0e89cc",
-    "url": "/react-portfolio/static/media/MatterBirds.d7b08c03.PNG"
+    "revision": "b1c0ca0e45e35a82cc0fd7acb5382240",
+    "url": "/react-portfolio/static/media/MatterBirds.b1c0ca0e.PNG"
   },
   {
-    "revision": "8d9d7d8edbed12ed9adff470221e5e89",
-    "url": "/react-portfolio/static/media/Fitness.8d9d7d8e.PNG"
+    "revision": "e649d2a3db87ce5298ce9acc4ea3717d",
+    "url": "/react-portfolio/static/media/Fitness.e649d2a3.PNG"
   },
   {
     "revision": "dfb51c1e263bf15d74e6edad3f26eda3",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/getbootstrap-ar21.2f571c9e.svg"
   },
   {
-    "revision": "13a43a69884805ce642f5d42bfa1f5cf",
+    "revision": "bf6ef9ec4b421234d76a1dd014f97157",
     "url": "/react-portfolio/index.html"
   }
 ];
