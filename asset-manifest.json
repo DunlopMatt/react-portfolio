@@ -1,7 +1,7 @@
 {
   "main.css": "/react-portfolio/static/css/main.fa009ab1.chunk.css",
-  "main.js": "/react-portfolio/static/js/main.1a384cf9.chunk.js",
-  "main.js.map": "/react-portfolio/static/js/main.1a384cf9.chunk.js.map",
+  "main.js": "/react-portfolio/static/js/main.1fcaa02d.chunk.js",
+  "main.js.map": "/react-portfolio/static/js/main.1fcaa02d.chunk.js.map",
   "static/js/1.b3b809bf.chunk.js": "/react-portfolio/static/js/1.b3b809bf.chunk.js",
   "static/js/1.b3b809bf.chunk.js.map": "/react-portfolio/static/js/1.b3b809bf.chunk.js.map",
   "runtime~main.js": "/react-portfolio/static/js/runtime~main.f8926043.js",
@@ -11,7 +11,7 @@
   "static/media/MatterBirds.PNG": "/react-portfolio/static/media/MatterBirds.b1c0ca0e.PNG",
   "static/media/Fitness.PNG": "/react-portfolio/static/media/Fitness.e649d2a3.PNG",
   "static/media/Portfolio.PNG": "/react-portfolio/static/media/Portfolio.dfb51c1e.PNG",
-  "static/media/james-harrison-vpOeXr5wmR4-unsplash.jpg": "/react-portfolio/static/media/james-harrison-vpOeXr5wmR4-unsplash.24ea206b.jpg",
+  "static/media/thumbnail.PNG": "/react-portfolio/static/media/thumbnail.0b1dfe94.PNG",
   "static/media/w3_html5-ar21.svg": "/react-portfolio/static/media/w3_html5-ar21.9ea30473.svg",
   "static/media/w3_css-ar21.svg": "/react-portfolio/static/media/w3_css-ar21.f7fa700b.svg",
   "static/media/javascript-ar21.svg": "/react-portfolio/static/media/javascript-ar21.f6d0312a.svg",
@@ -24,6 +24,6 @@
   "static/media/getbootstrap-ar21.svg": "/react-portfolio/static/media/getbootstrap-ar21.2f571c9e.svg",
   "static/css/main.fa009ab1.chunk.css.map": "/react-portfolio/static/css/main.fa009ab1.chunk.css.map",
   "index.html": "/react-portfolio/index.html",
-  "precache-manifest.149686f04c0fdff9c3367cf9e0fdd5c2.js": "/react-portfolio/precache-manifest.149686f04c0fdff9c3367cf9e0fdd5c2.js",
+  "precache-manifest.ff70de03efed09f10f8911e1bb633b3b.js": "/react-portfolio/precache-manifest.ff70de03efed09f10f8911e1bb633b3b.js",
   "service-worker.js": "/react-portfolio/service-worker.js"
 }
