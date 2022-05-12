@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6deecd617ad41511c9ba",
-    "url": "/react-portfolio/static/css/main.38f68a42.chunk.css"
+    "revision": "1a384cf95e79ae63de55",
+    "url": "/react-portfolio/static/css/main.fa009ab1.chunk.css"
   },
   {
-    "revision": "6deecd617ad41511c9ba",
-    "url": "/react-portfolio/static/js/main.6deecd61.chunk.js"
+    "revision": "1a384cf95e79ae63de55",
+    "url": "/react-portfolio/static/js/main.1a384cf9.chunk.js"
   },
   {
     "revision": "b3b809bf97541adacdbc",
@@ -34,6 +34,10 @@ self.__precacheManifest = [
   {
     "revision": "dfb51c1e263bf15d74e6edad3f26eda3",
     "url": "/react-portfolio/static/media/Portfolio.dfb51c1e.PNG"
+  },
+  {
+    "revision": "24ea206b8da2b8b916c63fed288cd862",
+    "url": "/react-portfolio/static/media/james-harrison-vpOeXr5wmR4-unsplash.24ea206b.jpg"
   },
   {
     "revision": "9ea3047330a1a2e8451bb1c485f9b21f",
@@ -76,7 +80,7 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/getbootstrap-ar21.2f571c9e.svg"
   },
   {
-    "revision": "c558400f0cbaf386833e3d54178f5048",
+    "revision": "b90120385541a6c04b1d410479435c7d",
     "url": "/react-portfolio/index.html"
   }
 ];
