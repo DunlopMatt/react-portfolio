@@ -48,7 +48,7 @@ const Projects = () => {
 					<img class="img-fluid img-thumbnail" alt="Screen shot" src={require('../images/MatterBirds.PNG')}></img>
             <div class="card-body">
 						<h5 class="card-title ">Matter Birds</h5>
-              <p class="card-text">A simple angry birds type game built using Matter.js.</p>
+              <p class="card-text">An angry birds style game built using the Matter.js libary.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <a href='https://github.com/DunlopMatt/MatterBirds' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button></a>
@@ -64,7 +64,7 @@ const Projects = () => {
 					<img class="img-fluid img-thumbnail" alt="Screen shot" src={require('../images/Fitness.PNG')}></img>
             <div class="card-body">
 						<h5 class="card-title ">Health and Fitness Mock-up</h5>
-              <p class="card-text">A mock up I created for my brother when he was considering becoing a Personal Trainer.Built using HTML CSS (BootStrap) and a little JS </p>
+              <p class="card-text">A mock up I created for my brother when he was considering becoing a Personal Trainer. </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <a href='https://github.com/DunlopMatt/J-Dunlop-Fitness' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button></a>

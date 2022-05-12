@@ -10,18 +10,13 @@ const Contact = () => {
 		<section ref={contactRef} id='contactContainer'>
 			<div class="py-5 text-center container">
 			<h1 class="display-3">Contact</h1>
-				<div class="row">
-					<div class="col-sm-4 offset-md-1 py-4">
-						<ul class="list-unstyled">
-							<li><a href="https://github.com/DunlopMatt" > <button class="btn btn-outline-secondary m-2" type="button">GitHub</button></a></li>
-							<li><a href="mailto:MatthewJDunlop@outlook.com"> <button class="btn btn-outline-secondary m-2" type="button">Email</button></a></li>
-							<li><a href="https://linkedin.com/in/matt-dunlop-1206a0237"> <button class="btn btn-outline-secondary m-2" type="button">Linkedin</button></a></li>
-						</ul>
-					</div>
-					<div class="col-sm-8 col-md-7 py-4">
-						<h4 class="text">View CV</h4>
-						<a href='/' download={"../images/Matthew Dunlop CV 2022.pdf"}><i class="fa-solid fa-file-arrow-down fa-5x"></i></a>
-					</div>
+				<div class="row p-5">
+					<div class="btn-group justify-content-center">
+						<a href='https://github.com/DunlopMatt' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-secondary m-2">GitHub</button></a>
+						<a href='mailto:MatthewJDunlop@outlook.com' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-secondary m-2">Email</button></a>
+						<a href='https://linkedin.com/in/matt-dunlop-1206a0237' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-secondary m-2">Linkedin</button></a>
+						<a href={'public/MatthewDunlopCV2022.pdf'} download="MatthewDunlopCV2022" target="_blank"><button type="button" class="btn btn-outline-secondary m-2">View CV</button></a>
+				</div>
 				</div>
 			</div>
 		</section>
@@ -30,3 +25,4 @@ const Contact = () => {
 
 
 export default Contact;
+

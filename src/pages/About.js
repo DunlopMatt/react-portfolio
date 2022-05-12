@@ -10,6 +10,9 @@ const About = () => {
 		<section ref={aboutRef} id='aboutContainer'>
 		<div class="py-5 text-center container">
     <div class="row py-lg-5">
+    <div class="col-lg-6 col-md-8 mx-auto">
+      <img className="img-fluid rounded-circle" alt='' src={require('../images/thumbnail.jpg')} ></img>    
+    </div>
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="display-1">Hello</h1>
         <p class="lead text-muted">My name is Matt Dunlop. I am Web Developer. I am passionate about tech, driven to do my best and always hungry to learn more.</p>
