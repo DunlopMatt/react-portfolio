@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "01d23c2857894fb61860",
-    "url": "/react-portfolio/static/css/main.fa009ab1.chunk.css"
+    "revision": "19561a242cc3ff1798f4",
+    "url": "/react-portfolio/static/css/main.69193b25.chunk.css"
   },
   {
-    "revision": "01d23c2857894fb61860",
-    "url": "/react-portfolio/static/js/main.01d23c28.chunk.js"
+    "revision": "19561a242cc3ff1798f4",
+    "url": "/react-portfolio/static/js/main.19561a24.chunk.js"
   },
   {
     "revision": "b3b809bf97541adacdbc",
@@ -34,6 +34,10 @@ self.__precacheManifest = [
   {
     "revision": "dfb51c1e263bf15d74e6edad3f26eda3",
     "url": "/react-portfolio/static/media/Portfolio.dfb51c1e.PNG"
+  },
+  {
+    "revision": "c2191dfa5121f6d76d57febe5942809a",
+    "url": "/react-portfolio/static/media/MatthewDunlopCV2022.c2191dfa.pdf"
   },
   {
     "revision": "0b1dfe947b320d241a3a14b25804837a",
@@ -80,7 +84,7 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/getbootstrap-ar21.2f571c9e.svg"
   },
   {
-    "revision": "443d54dae0564482dfae5f8530bd1bd0",
+    "revision": "cae62f901ccb3b19af1387311f480966",
     "url": "/react-portfolio/index.html"
   }
 ];
