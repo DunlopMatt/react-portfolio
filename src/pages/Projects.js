@@ -21,7 +21,7 @@ const Projects = () => {
               <p class="card-text">A mock Ecommerce site built using React on the font end and node on the back end.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href='https://github.com/DunlopMatt/react-portfolio' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button></a>
+                  <a href='https://github.com/DunlopMatt/EComm' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">GitHub</button></a>
                   <a href='https://react-app-ecomm.herokuapp.com/' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-sm btn-outline-secondary">Live site</button></a>
                 </div>
               </div>

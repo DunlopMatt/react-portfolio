@@ -1,6 +1,8 @@
 import React from 'react';
 import { useNav } from '../customHooks/useNav';
 import './Page.css';
+import MatthewDunlopCV from '../images/MatthewDunlopCV.pdf'
+
 
 const Contact = () => {
 
@@ -14,14 +16,15 @@ const Contact = () => {
 					<div class="btn-group justify-content-center">
 						<a href='https://github.com/DunlopMatt' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-secondary m-2">GitHub</button></a>
 						<a href='mailto:MatthewJDunlop@outlook.com' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-secondary m-2">Email</button></a>
-						<a href='https://linkedin.com/in/matt-dunlop-1206a0237' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-secondary m-2">Linkedin</button></a>
-						<a href={'public/MatthewDunlopCV2022.pdf'} download="MatthewDunlopCV2022" target="_blank"><button type="button" class="btn btn-outline-secondary m-2">View CV</button></a>
+						{/* <a href='https://linkedin.com/in/matt-dunlop-1206a0237' target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-outline-secondary m-2">Linkedin</button></a> */}
+						<a href={MatthewDunlopCV} download='MatthewDunlopCV'><button type="button" class="btn btn-outline-secondary m-2">CV</button></a>
 				</div>
 				</div>
 			</div>
 		</section>
 	);
 };
+
 
 
 export default Contact;
